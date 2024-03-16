@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Namtran1404.github.io/static/css/main.65fe5078.css",
-    "main.js": "/Namtran1404.github.io/static/js/main.380ad614.js",
-    "static/js/453.e2589667.chunk.js": "/Namtran1404.github.io/static/js/453.e2589667.chunk.js",
-    "static/media/avatar.jpg": "/Namtran1404.github.io/static/media/avatar.8285231412d74f6216fa.jpg",
-    "index.html": "/Namtran1404.github.io/index.html",
-    "main.65fe5078.css.map": "/Namtran1404.github.io/static/css/main.65fe5078.css.map",
-    "main.380ad614.js.map": "/Namtran1404.github.io/static/js/main.380ad614.js.map",
-    "453.e2589667.chunk.js.map": "/Namtran1404.github.io/static/js/453.e2589667.chunk.js.map"
+    "main.css": "/namportfolio/static/css/main.65fe5078.css",
+    "main.js": "/namportfolio/static/js/main.d0a35732.js",
+    "static/js/453.e2589667.chunk.js": "/namportfolio/static/js/453.e2589667.chunk.js",
+    "static/media/avatar.jpg": "/namportfolio/static/media/avatar.8285231412d74f6216fa.jpg",
+    "index.html": "/namportfolio/index.html",
+    "main.65fe5078.css.map": "/namportfolio/static/css/main.65fe5078.css.map",
+    "main.d0a35732.js.map": "/namportfolio/static/js/main.d0a35732.js.map",
+    "453.e2589667.chunk.js.map": "/namportfolio/static/js/453.e2589667.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65fe5078.css",
-    "static/js/main.380ad614.js"
+    "static/js/main.d0a35732.js"
   ]
 }
