@@ -11,3 +11,71 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.animatedClassName {
+  opacity: 0;
+  transition: opacity 0.5s ease; /* You can adjust the duration and easing function */
+  
+}
+
+.animatedClassName.active {
+  opacity: 1;
+}
+
+img{
+  width:200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.my_image{
+  margin-left:480px;
+  margin-top: 100px;
+
+}
+.description{
+  margin-left: 50px;
+  text-align: center;
+  align-items: center;
+}
+.info_content{
+  margin-top: 20px;
+}
+a{
+  margin-right: 10px;
+}
+.container{
+  height: 2000px;
+  margin-bottom: 200px;
+}
+.experience{
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.project{
+  margin-left: 100px;
+  margin-top: 650px;
+  margin-bottom: 30px;
+}
+.project-box {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.github-link {
+  display: inline-block;
+  font-size: 14px;
+  color: #0366d6; /* GitHub link color */
+  text-decoration: none;
+  margin-top: 10px;
+}
+.project-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.project-description {
+  font-size: 16px;
+  color: #666;
+}
